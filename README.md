@@ -54,7 +54,3 @@ Aligned with standard electricity market trading intervals, the 15-minute granul
 - **Feature Encoding**: Cyclic encoding for temporal features
 - **Missing Data**: Handled with appropriate imputation techniques
 - **Quality Control**: Validated against market trading intervals and operational constraints
-This dataset provides researchers and practitioners with a comprehensive, high-quality resource for developing and testing power market forecasting models and understanding the complex dynamics of modern electricity markets.
-
---------------------------------
-以上内容由AI生成，仅供参考和借鉴
