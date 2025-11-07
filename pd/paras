@@ -1,0 +1,51 @@
+CEV_DA  省内出清电量-日前*
+CEV_DI   省内出清电量-日内
+UCP_DA  统一出清价格-日前(调控后)*
+UCP_DI   统一出清价格-日内(调控后)
+UDEV     用户申报电量-日前
+TBS_DA  火电竞价空间-日前*
+TBS_DI   火电竞价空间-日内
+PDL_DA  省调负荷-日前*
+PDL_DI   省调负荷-日内
+TLP_DA   联络线计划-日前*
+TLP_DI    联络线计划-日内
+SDR_DA  供需比-日前*
+SDR_DI   供需比-日内
+NEL_DA  新能源负荷-日前*
+NEL_DI   新能源负荷-日内
+WPO_DA 风电出力-日前*
+WPO_DI  风电出力-日内
+PVO_DA  光伏出力-日前*
+PVO_DI   光伏出力-日内
+NMUO_DA  非市场化机组出力-日前
+NMUO_DI   非市场化机组出力-日内
+HO_DA    水电出力-日前
+HO_DI     水电出力-日内
+OLUC_DA  在线机组容量-日前*
+OLUC_DI   在线机组容量-日内
+
+- Provincial cleared electricity volume - Day-ahead
+- Provincial cleared electricity volume - Intra-day
+- Unified clearing price - Day-ahead (before regulation)
+- Unified clearing price - Intra-day (before regulation)
+- User declared electricity volume - Day-ahead
+- Thermal power bidding space - Day-ahead
+- Thermal power bidding space - Intra-day
+- Provincial dispatching load - Day-ahead
+- Provincial dispatching load - Intra-day
+- Tie-line plan - Day-ahead
+- Tie-line plan - Intra-day
+- Supply-demand ratio - Day-ahead
+- Supply-demand ratio - Intra-day
+- New energy load - Day-ahead
+- New energy load - Intra-day
+- Wind power output - Day-ahead
+- Wind power output - Intra-day
+- Photovoltaic power output - Day-ahead
+- Photovoltaic power output - Intra-day
+- Non-marketized unit output - Day-ahead
+- Non-marketized unit output - Intra-day
+- Hydropower output - Day-ahead
+- Hydropower output - Intra-day
+- On-line unit capacity - Day-ahead
+- On-line unit capacity - Intra-day
