@@ -3,6 +3,7 @@
 ## Shanxi Power Market Time Series Dataset
 ## Overview
 This dataset contains comprehensive time series data from the Shanxi provincial electricity market, spanning from January 1, 2024 to April 7, 2025 with 15-minute temporal resolution. The dataset is specifically designed for power market forecasting, price prediction, and energy trading analysis tasks.
+![https://github.com/yingyueliuhui/ESPS-Probabilistic-Forecasting/blob/main/data_distribution.png]
 ## Dataset Structure
 - **Temporal Resolution**: 15-minute intervals (96 data points per day)
 - **Time Period**: January 1, 2024 - April 7, 2025
